@@ -1,5 +1,4 @@
 # Lorem-Ipsum-generator
-# Tabs
 # Getting Started with Create React App
 ## https://keen-caramel-8ebe98.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
