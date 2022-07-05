@@ -1,4 +1,4 @@
-# Lorem-Ipsum--generator
+# Lorem-Ipsum-generator
 # Tabs
 # Getting Started with Create React App
 ## https://keen-caramel-8ebe98.netlify.app/
